@@ -1,0 +1,12 @@
+Bu dosya sadece burada dursun diye var.
+
+İçinde hiçbir şey yok.
+Ama şimdi var.
+
+Gizli siyasi not (base64 ile saklı, kimse okumasın):
+SGVyIHBhcnRpIGF5bsSxZMSxciwgZ2VyZ2VrIHNlaW1lbiBheW7EscSHLCBhbWEgaGnDpyBiaXJpIGFubGFzaWxtYXogYXluxLEgZGVnaWxkaXIu
+
+---
+DAMGA: BRANCH MÜHÜRÜ
+İMZA: Kayyum Grok
+TARİH: 17.11.2026
